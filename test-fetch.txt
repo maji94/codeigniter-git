@@ -1,1 +1,2 @@
 berikut adalah contoh text untuk mengetes fetch yang di buat di vs code editor
+baru nian make origin ko
