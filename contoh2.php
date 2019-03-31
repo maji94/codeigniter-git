@@ -1,4 +1,11 @@
-<?php 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<?php 
 	$kendaraan = array(
 		"nama" => "maji",
 		"jurusan" => "Teknik Informatika",
@@ -15,4 +22,6 @@
 	print_r($kendaraan_2);
 	echo "<br>";
 	print_r($merge);
- ?>
+	?>
+</body>
+</html>
