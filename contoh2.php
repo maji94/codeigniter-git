@@ -26,6 +26,9 @@
 
 	<div>
 		<h1>suparmaji</h1>
+		<table>
+			<tr></tr>
+		</table>
 	</div>
 </body>
 </html>
